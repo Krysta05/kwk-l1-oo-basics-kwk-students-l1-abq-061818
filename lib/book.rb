@@ -1,6 +1,4 @@
-book = Book.new("Some Title")
-book.turn_page
-# => "Flipping the page...wow, you read fast!"
+#book.rb 
 
 class Book 
 def initialize(title)
